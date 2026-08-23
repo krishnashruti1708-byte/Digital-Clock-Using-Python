@@ -1,0 +1,1 @@
+A real-time Digital Clock desktop application developed using Python and Tkinter. The application displays the current system time and date with an attractive graphical user interface and updates automatically in real time.
